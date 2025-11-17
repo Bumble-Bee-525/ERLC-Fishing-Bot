@@ -2,7 +2,7 @@
 Easy way to afk a ton of money in the game Emergency Response: Liberty County. (Originally created May 25, 2025)
 
 Download the lastest version her: https://drive.google.com/drive/folders/1YsMGIXbAAZ4keZuRQRzEf97oouiLXDtw?usp=drive_link
-Place all these files into a single folder. Then double click the "FishingERLC.exe" file to run it.
+Place all these files into a single folder. Then double click the "FishingERLC.exe" file to run it. In the future, I'll upload a better exe into this repo.
 
 # Instructions for using fishing bot:
 - fish manually yourself until your inventory is full of fish all the way to slot 0
